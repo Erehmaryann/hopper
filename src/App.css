@@ -1,0 +1,13 @@
+@media screen and (min-width: 1000px) {
+  .mobile-view {
+    display: none !important;
+    visibility: hidden !important;
+  }
+}
+
+@media screen and (max-width: 999px) {
+  .desktop-view {
+    display: none !important;
+    visibility: hidden !important;
+  }
+}
